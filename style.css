@@ -93,10 +93,23 @@ button{
     background:#80b7b3;
     height: 44px; width: 199px;
     border-radius: 20px;
+    margin-bottom: 125px;
 }
 .button1:hover{
     background: #3a5855;
 }
 .button2:active{
     background: #818181;
+}
+
+input {
+    height: 50px; width: 292px;
+}
+
+.text2{
+    margin-left: 80px;
+    
+}
+.text2:focus{
+    box-shadow: 5px 5px 5px #7bf7b3;
 }
